@@ -3,4 +3,4 @@ Hello-World Repository
 
 Hi Humans!
 
-Joe here.  I like PHP and TSQL.
+Joe here.  I like PHP, MySQL, TSQL, and AWS.
